@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishikumar002
 - 👀 I’m interested in Exploring Web Development
-- 🌱 I’m currently learning Pthon, HTML, CSS
+- 🌱 I’m currently learning Python, HTML, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
